@@ -1,7 +1,6 @@
 import random
 from art import logo, vs
 from game_data import data
-from replit import clear
 
 def random_choice(choice):
   choice_name = choice["name"]
